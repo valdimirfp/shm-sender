@@ -2,9 +2,9 @@ from telethon import TelegramClient, events, sync
 from telethon.tl.types import MessageEntityUrl
 
 # укажите данные вашего бота
-api_id = 17199600
-api_hash = 'd96d40fde445f4629c6c75d61f67dec2'
-bot_token = '6293189472:AAGYvYa98gukaLE052SADcJUaoP2O-2N3bc'
+api_id = 00000000
+api_hash = '000000000'
+bot_token = '0000000:00000000000000000'
 
 # Set the path to the file containing the user IDs you want to send messages to
 file_path = 'users.txt'
