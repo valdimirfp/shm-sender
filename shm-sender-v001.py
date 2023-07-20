@@ -17,7 +17,7 @@ with open(file_path, 'r') as f:
 client = TelegramClient('my_session', api_id, api_hash).start(bot_token=bot_token)
 
 # Create a message entity for the hyperlink
-url = 'https://t.me/+5Y1-M6eHsH5kNzMy'
+url = 'https://t.me/000000000'
 entity = MessageEntityUrl(offset=56, length=4)
 entity.url = url
 
